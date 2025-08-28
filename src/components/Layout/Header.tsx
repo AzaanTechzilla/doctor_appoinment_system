@@ -149,7 +149,7 @@ const Header = () => {
                       Chughtai Lab
                     </li>
                     <li className=" px-4 py-3 font-bold text-primary rounded-lg hover:bg-gray-200 cursor-pointer">
-                      Dr. Essa's Laboratory & Diagnostic Center
+                      Dr. Essas Laboratory & Diagnostic Center
                     </li>
                     <li className=" px-4 py-3 font-bold text-primary rounded-lg hover:bg-gray-200 cursor-pointer">
                       Excel Labs
@@ -286,7 +286,7 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, toggleSidebar }) => {
                       Chughtai Lab
                     </li>
                     <li className=" px-4 py-2 font-bold text-primary rounded-lg hover:bg-gray-200 cursor-pointer">
-                      Dr. Essa's Laboratory & Diagnostic Center
+                      Dr. Essas Laboratory & Diagnostic Center
                     </li>
                     <li className=" px-4 py-2 font-bold text-primary rounded-lg hover:bg-gray-200 cursor-pointer">
                       Excel Labs
